@@ -26,4 +26,4 @@ To run this project on your local machine, follow these simple steps:
 ### 1. Clone the Repository
 Open your terminal or command prompt and run the following command:
 ```bash
-git clone [https://github.com/your-username/student-task-manager.git](https://github.com/your-username/student-task-manager.git)
+git clone [https://github.com/FahmidaMitu/student-task-manager.git](https://github.com/FahmidaMitu/student-task-manager.git)
